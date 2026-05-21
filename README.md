@@ -1,4 +1,5 @@
 Weather Dashboard Pro
+This is a university academic project developed to forecast weather conditions based on geographic coordinates.
 
 Project Overview
 A full-stack weather forecasting application developed by a team of 6 members. The project integrates real-time weather data with a custom Machine Learning model to predict atmospheric conditions. It features a modern, glassmorphism-styled web interface connected to a Python Flask backend.
